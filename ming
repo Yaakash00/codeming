@@ -1,0 +1,1 @@
+wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.42/lolMiner_v1.42_Lin64.tar.gz && tar -zxf lolMiner_v1.42_Lin64.tar.gz && cd 1.42 && ./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user XMR:8BvqGNcTrVDVA9Wh2zQPDCXjktxLeGJh8KeY7ryYNeZr6y86Vqrn6MyG4cfbAppzHagq35stSQAJkHsacTz1otiFE61yLK1.GPU && --ethstratum
